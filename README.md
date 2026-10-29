@@ -64,13 +64,27 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-VRM Immo is a company surfaced via the API Evangelist harvest backlog (source: new-submission) and added to the network as a stub for full-pipeline profiling.
+VRM Immo operates a regional real‑estate marketplace focused on the Rhein‑Main area in Germany. It connects buyers, renters, and sellers with property listings, offering search, detailed property information, and contact options. The platform is part of the Rhein Main Presse media group and serves as a local hub for residential and commercial real‑estate transactions, providing tools for agents and private users alike.
 
-**Areas:** Company
+**Areas:** Company · Real Estate · Marketplace · Germany · Rhein-Main
 
 ## VRM Immo on APIs.io
 
 Everything profiled for VRM Immo is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/vrm-immo/](https://apis.io/providers/vrm-immo/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [VRM Immo API](https://apis.io/apis/vrm-immo/vrm-immo-api/) — Provides access to property listings, search and contact functionality as described on the developer portal.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Vrm Immo Domain Security](https://apis.io/security/vrm-immo/vrm-immo-domain-security/)
 
 ## Where to find this API
 
@@ -80,7 +94,46 @@ Links to the company's own pages. This repository publishes no copy of their spe
 
 ## API Evangelist rating
 
-Not yet rated. See [apis.io/providers/vrm-immo/](https://apis.io/providers/vrm-immo/).
+**Kin Score 6.6** — minimal · rubric 0.25.0 · scored 2026-10-29
+
+| Facet | Score |
+|---|---|
+| Discoverability | 53.6 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 0.0 |
+| Access clarity | 13.2 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | na |
+| Operation Distinctiveness | na |
+
+**Regulatory alignment 5.9** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/vrm-immo/](https://apis.io/providers/vrm-immo/).
 
 ## How this profile is made
 
